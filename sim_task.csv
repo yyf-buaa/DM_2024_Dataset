@@ -1,4 +1,4 @@
-Unnamed: 0,type,time,entity_id,coordinates,trajectory_id
+,type,time,entity_id,coordinates,trajectory_id
 899519,trajectory,2018-10-01T12:09:26Z,1391,"[104.09597, 30.71475]",34234
 899520,trajectory,2018-10-01T12:09:57Z,1391,"[104.09585, 30.71478]",34234
 899521,trajectory,2018-10-01T12:10:27Z,1391,"[104.09569, 30.71475]",34234
